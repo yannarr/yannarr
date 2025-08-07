@@ -1,15 +1,14 @@
 # Hey there, I'm Him 👩‍💻
 
-✨ Aspiring Data Scientist | 🧠 AI Innovator | ⚡ Future Quant King  
+✨ Aspiring Data Scientist | 🧠 AI Innovator |   
 Turning ideas into systems and code into impact.
 
 ---
 
 ## 🚀 About Me
-- 🎓 BSc. Data Science & Analytics @ USIU-A (2023–2027)
+- 🎓 BSc. Data Science & Analytics @ USIU-A 
 - 🛠️ Currently building: 
   - **[AI Content Factory]** – Automating video creation with LangChain & CrewAI
-  - **Campus Shuttle Tracker** – Real-time bus tracking system for USIU
 - 📈 Focus: Machine Learning | Neural Networks | Scalable AI Systems | Quant Models
 - 💬 Motto: _“If it ain’t automating, it’s stagnating.”_
 
@@ -50,7 +49,7 @@ Turning ideas into systems and code into impact.
 
 ## 🧠 Let’s Connect & Collaborate
 
-📫 Reach me: [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+📫 Reach me: [Email](markogem4@email.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
 🤝 Open to: Collabs, Internships, Remote Dev Roles, AI Startup Gigs  
 🎯 Fun Fact: I debug dreams into deliverables 🌌
 
