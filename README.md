@@ -28,15 +28,14 @@ Turning ideas into systems and code into impact.
 
 ## 📊 Stats That Slap
 
-![Him's GitHub Stats](https://github-readme-stats.vercel.app/api?username=him-dev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=him-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=him-dev&theme=radical)](https://git.io/streak-stats)
+![Him's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannarr&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannarr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yannar&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 📌 Pinned Projects
 
-> *(Make sure these repos are public + pinned to profile!)*
 
 🔹 [AI Content Factory](https://github.com/yourproject) – LangChain + CrewAI powered AI media engine  
 🔹 [Campus Shuttle Tracker](https://github.com/yourproject) – Real-time GPS transport system  
