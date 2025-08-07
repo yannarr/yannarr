@@ -28,10 +28,9 @@ Turning ideas into systems and code into impact.
 
 ## 📊 Stats That Slap
 
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannarr&show_icons=true&theme=radical)
+![Yannarr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannarr&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannarr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yannarr&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yannarrv&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -58,7 +57,6 @@ Turning ideas into systems and code into impact.
 ![Quote](https://img.shields.io/badge/-“Stay%20curious,%20break%20things,%20build%20better.”-black?style=flat)
 
 ---
-## 🧩 Extras for the Curious
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yannarr&theme=github-compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=yannarr&style=flat-square)
