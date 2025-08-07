@@ -1,4 +1,4 @@
-# Hey there, I'm Him 👩‍💻
+# Hey there, I'm Mark Mayana 👩‍💻
 
 ✨ Aspiring Data Scientist | 🧠 AI Innovator |   
 Turning ideas into systems and code into impact.
